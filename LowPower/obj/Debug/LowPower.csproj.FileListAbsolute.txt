@@ -1,0 +1,15 @@
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\bin\Debug\LowPower.exe.config
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\bin\Debug\LowPower.exe
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\bin\Debug\LowPower.pdb
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\MainWindow.g.cs
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\App.g.cs
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower_MarkupCompile.cache
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower_MarkupCompile.lref
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\MainWindow.baml
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower.g.resources
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower.Properties.Resources.resources
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower.csproj.GenerateResource.Cache
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower.exe
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\LowPower.pdb
+C:\Users\Lev\Dropbox\Projects\LowPower\LowPower\LowPower\obj\Debug\App.baml
